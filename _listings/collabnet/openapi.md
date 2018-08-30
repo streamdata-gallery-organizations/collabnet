@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: CollabNet
 x-complete: 1
@@ -3330,4 +3329,3 @@ paths:
       - List
       - By
       - User
----
